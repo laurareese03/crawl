@@ -2,7 +2,8 @@
 tutorial intro
 
 You can reread all messages at any time with
-<input>$cmd[CMD_REPLAY_MESSAGES]</input>. Also, press <input>Space</input>
+<input>$cmd[CMD_REPLAY_MESSAGES]</input>, or view a list of available commands with <input>$cmd[CMD_MENU_HELP]</input>.
+Also, press <input>Space</input>
 <localtiles> or <input>left click</input> with mouse</localtiles> to clear the
 <cyan>--more--</cyan> prompts.
 %%%%
