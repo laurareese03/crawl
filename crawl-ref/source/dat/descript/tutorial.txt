@@ -2,9 +2,10 @@
 tutorial intro
 
 You can reread all messages at any time with
-<input>$cmd[CMD_REPLAY_MESSAGES]</input>. Also, press <input>Space</input>
+<input>$cmd[CMD_REPLAY_MESSAGES]</input>. 
+<red>Press <input>Space</input>
 <localtiles> or <input>left click</input> with mouse</localtiles> to clear the
-<cyan>--more--</cyan> prompts.
+<cyan>--more--</cyan> prompts and begin.</red>
 %%%%
 ##############################################
 # Tutorial map 1: Movement and exploration   #
