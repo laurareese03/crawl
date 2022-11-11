@@ -2798,7 +2798,7 @@ void start_translevel_travel(const level_pos &pos)
 
     if (pos.is_valid() && !in_bounds(pos.pos))
     {
-        mpr("Sorry, I don't know how to get there.");
+        mpr("Sorry, that location is out of bounds.");
         return;
     }
 
